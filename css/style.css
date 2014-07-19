@@ -15,6 +15,7 @@ h1 {
 	font-weight: bold;
 	font-size: 4em;
 	text-align: center;
+	color: red;
 }
 
 h2 {
@@ -37,6 +38,7 @@ h2 {
 
 .more-info {
 	margin-top: 10px;
+	margin-bottom: 10px;
 	padding: 5px;
 	padding-left: 15px;
 	background-color: rgba(0,0,0,0.7);
@@ -45,6 +47,18 @@ h2 {
 	font-size: 16px;
 }
 
+.footer {
+	text-align: right;
+}
+
 #twitter {
+	text-align: right;
 	background-color: rgba(22, 12, 95, 0.9);
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	padding: 10px;
+}
+
+a {
+	color: #C3E4ED;
 }
