@@ -71,3 +71,13 @@ h2 {
 a {
 	color: #C3E4ED;
 }
+
+.video {
+	margin: 10px;
+	text-align: center;
+}
+
+#empire-video {
+	width: 560px;
+	height:315px;
+}
