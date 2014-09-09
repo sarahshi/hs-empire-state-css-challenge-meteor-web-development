@@ -1,6 +1,8 @@
 ---
   tags: kids, html, css
   languages: css, html, dev tools
+  type: lab
+  level: 1
 ---
 
 #The Empire State Building CSS Challenge
