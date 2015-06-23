@@ -13,7 +13,7 @@ Check out the image called 'empire-state-mockup.png' in the root direcotry of th
 
 ## Get Started: 
 + Fork and clone the project locally.
-+ Open up the project in Sublime. You'll see `index.html`. Open it up and see what the document looks like. You've got some work to do!
++ Open up the project in your text editor. You'll see `index.html`. Open it up and see what the document looks like. You've got some work to do!
 + Navigate to the `style.css` file. This is where you'll write the css styling for your page.
 + Remember to link to the css file from your HTML page. Otherwise your styling won't be applied!
 + You can use Chrome's Developer Tools to play around with the css on the page.
