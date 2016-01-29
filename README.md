@@ -18,4 +18,4 @@ Check out the image called 'empire-state-mockup.png' in the root direcotry of th
 + The fonts used are called 'Amatic' and 'Oxygen'. They can be found on [Google Fonts](https://www.google.com/fonts)
 + Notice that there's already a stylesheet within the <head> tags. This is for some initial styling I've added using CSS Bootstrap (That's why there are some named divs). Bootstrap is a CSS framework that makes it easy to style websites' layouts. You don't need to know Bootstrap for this challenge, but if you're interested in learning more, check out [The Bootstrap Page](http://getbootstrap.com/)
 
-<a href='https://learn.co/lessons/hs-empire-state-css-challenge' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-empire-state-css-challenge' title='The Empire State Building CSS Challenge'>The Empire State Building CSS Challenge</a> on Learn.co and start learning to code for free.</p>
